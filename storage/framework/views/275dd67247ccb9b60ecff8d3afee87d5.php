@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\wampassets\Mouezant_Laravel\resources\views/layouts/app.blade.php ENDPATH**/ ?>

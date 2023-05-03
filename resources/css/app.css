@@ -1,0 +1,21 @@
+@import "@fortawesome/fontawesome-free/css/all.css";
+*{
+	margin:0;
+	padding:0;
+}
+h1 {
+    color:  green;
+}
+.carousel-item > .d-flex > img
+{
+    width:100%;
+    height:auto;
+	object-fit: contain;
+}
+@media (min-width: 768px) {
+    .carousel-item > .d-flex > img
+	{
+		width:75%;
+		height:auto;
+	}
+}
