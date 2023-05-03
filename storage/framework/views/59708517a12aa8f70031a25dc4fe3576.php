@@ -1,1 +1,0 @@
-<p>test</p><?php /**PATH C:\wamp64\www\wampassets\Mouezant_Laravel\resources\views/backoffice/film/article.blade.php ENDPATH**/ ?>
